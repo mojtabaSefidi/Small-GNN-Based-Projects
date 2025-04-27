@@ -1,2 +1,2 @@
 # Machine-Learning-with-Graphs
-Learn GNN from Stanford Course.
+Learn Graph Neural Networks from the Stanford Course.
